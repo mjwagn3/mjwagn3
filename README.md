@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjwagn3
-- 👀 I’m interested in geometric math proofs, zoos/aquariums, history
-- 🌱 I’m currently learning more computer science principles, how to use link-in, and bible scripture.
-- 📫 How to reach me by one of my contacts
+- 👀 I’m interested in random history facts
+- 🌱 I’m currently learning more computer science principles such as heaps, activtion records. 
+- 📫 How to reach me by one of my contacts.
 - ⚡ Fun fact: I have 7 ancestors who fought in the Revolutionary War. 
 
 <!---
